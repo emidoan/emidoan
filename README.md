@@ -1,4 +1,6 @@
-### h e l l o
+## ✧･ﾟ: * ✧･ﾟ:*  h e l l o  w o r l d  *:･ﾟ✧ *:･ﾟ✧
+
+i'm emily. that is all.
 
 <!--
 **emidoan/emidoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
