@@ -2,7 +2,7 @@
 
 i'm emily, and i go by she/her pronouns. i am passionate about developing tech for social good, whether it be through recognizing and solving disparities in tech, or increasing accessibility in digital design. on my free time, i love creating art, watching anime, and social justice organizing.
 
-connect with me on [linkedin](https://www.linkedin.com/in/emidoan), visit my [website](https://www.emidoan.com), or reach me via [email](mailto:emilydoan10@gmail.com).
+**connect with me on [linkedin](https://www.linkedin.com/in/emidoan), visit my [website](https://www.emidoan.com), or reach me via [email](mailto:emilydoan10@gmail.com).**
 
 <!--
 **emidoan/emidoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
