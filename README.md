@@ -1,10 +1,10 @@
 ## ✧･ﾟ: * ✧･ﾟ:*  h e l l o  w o r l d  *:･ﾟ✧ *:･ﾟ✧
 
-i'm emily, and i go by she/her pronouns. i grew up in the inland empire, but now i am going to school at the university of california, irvine!
+i'm emily, and i go by she/her pronouns. i grew up in the ontario, california in the inland empire, but now i am going to school at the university of california, irvine!
 
-i am passionate about developing tech for social good, whether it be through recognizing and solving disparities in tech, or increasing accessibility in digital design. on a technical standpoint, i am interested in front-end development and ui/ux design, but i am open to trying new things! i hope to get my masters in ai/ml or bioinformatics one day to divert my technical skills in the healthcare industry.
+i am passionate about developing tech for social good, whether it be through recognizing and solving disparities in tech, or increasing accessibility in digital design. on a technical standpoint, i am primarily interested in front-end development and ui/ux design, but i am still learning new things! i hope to get my masters in ai/ml or bioinformatics one day... 💭
 
-on my free time, i love creating art, watching anime, and social justice organizing. 
+on my free time, i love creating art, watching anime, and social justice organizing. 🌱
 
 **connect with me on [linkedin](https://www.linkedin.com/in/emidoan), visit my [website](https://www.emidoan.com), or reach me via [email](mailto:emilydoan10@gmail.com).**
 
